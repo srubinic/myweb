@@ -1,0 +1,188 @@
+html{
+    font-family: 'Open Sans', sans-serif;
+    color: #95989A;
+}
+
+
+/*----------------------ROW----------------*/
+#headrow{
+    padding-top: 6rem; 
+
+}
+
+.imgcontainer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+#cubes{
+    z-index: 1;
+    width: 40%;
+    position: relative;
+    opacity: 0.9;
+
+}
+
+#name{
+    color:#95989A;  
+    font-weight: 600;
+    font-size: 4rem;
+    text-align: right;
+    letter-spacing: 0.5rem;
+}
+
+#title{
+    color: #95989A;
+    font-size: 1rem;
+    font-weight: 600;
+    letter-spacing: 0.5rem;
+}
+
+.namecontainer{
+    text-align: right;
+}
+
+
+#dots{
+    color:#3AAFA9;
+    letter-spacing: 2rem;
+    font-size: 3rem;
+    text-align: center;
+}
+
+#dotsr{
+    color: #B97B6C;  
+    letter-spacing: 2rem;
+    font-size: 3rem;
+    text-align: center;
+}
+
+#row2{
+
+}
+/*---------------------------ROW--------------*/
+
+#welcome{
+    font-size:2rem;
+    letter-spacing: 0.5rem;
+    font-weight: 600;
+    text-align: center;
+}
+
+.skillscontainer{
+    display: flex;
+    justify-content: center;
+}
+
+#skillshead{
+    font-size: 1.5rem;
+    font-weight: 600;
+    letter-spacing: 0.5rem;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+#skills{
+    width: 20%;
+}
+
+
+#list{
+    text-align: center;
+    font-size: 1rem;
+    line-height: 2rem;
+}
+
+#row3{
+  
+}
+/*---------------------------ROW 4---------------*/
+
+.container2{
+
+}
+
+#hobby{
+    font-size: 1.5rem;
+    font-weight: 600;
+    letter-spacing:0.5rem;
+    text-transform: uppercase;
+}
+
+#melist{
+}
+
+#me{
+    width: 60%;
+    height: auto;
+    border-radius: 5rem;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.me2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/*---------------------------ROW 5---------------*/
+/*---------------------------ROW 6---------------*/
+
+/*---------------------------ROW 7---------------*/
+.jobcontainer{
+    display: flex;
+    justify-content: center;
+}
+
+#job{
+    width: 30%;
+}
+
+.caption{
+    text-align: center;
+    padding-top: 1rem;
+}
+
+/*---------------------------ROW 8---------------*/
+
+#contact{
+    width: 25%;
+}
+
+#contactq{
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    font-weight: 600;
+    text-align: center;
+    letter-spacing: 0.5rem;
+}
+
+#foot{
+    text-align: right;
+    font-size: 0.9rem;
+}
+#bottomrow{
+    background-color: #3AAFA9;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+#connectlink{
+    text-decoration: none;
+    color: #95989A;
+    display: flex;
+    justify-content: center;
+    
+}
+
+#connectlink:hover{
+    color:#3AAFA9;  
+    font-weight: 600;
+    
+}
+
+#emailrow{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
