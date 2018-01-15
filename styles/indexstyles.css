@@ -177,7 +177,7 @@ html{
 
 #connectlink:hover{
     color:#3AAFA9;  
-    font-weight: 600;
+    transition: .7s;
     
 }
 
